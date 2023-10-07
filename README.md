@@ -1,4 +1,4 @@
-# delete2
+# quizz app
 
 A new Flutter project.
 
